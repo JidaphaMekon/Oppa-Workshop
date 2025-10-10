@@ -40,7 +40,7 @@ To fill these missing values, three interpolation methods were applied:
 
 Linear Interpolation
 
-Nearest Interpolation
+ Spline Interpolation
 
 Forward Fill Interpolation
 
@@ -88,7 +88,7 @@ Numbered Data Processing Steps
 
 2. Trading day + holiday + Linear Interpolation
 
-3. Trading day + holiday + Nearest Neighbor Interpolation
+3. Trading day + holiday + Spline Neighbor Interpolation
 
 4. Trading day + holiday + Forward Fill Interpolation
 
